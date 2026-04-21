@@ -1,16 +1,35 @@
-## Hi there 👋
+# LevesLewis
 
-<!--
-**LevesLewis/LevesLewis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![banner](download.jpeg)
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olá, me chamo Octávio Jhulian.
+
+💻 Sou desenvolvedor de Backend em treinamento.
+
+📚 Estou estudando Java e MySql.
+
+🚀 No caminho para me tornar um profissional na área.  
+
+🎯 Meu objetivo: Conseguir minha primeira vaga de Backend.
+
+## 🚀 Tecnologias
+
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
+
+## 📊 Estatísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LevesLewis&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevesLewis&layout=compact&theme=dark)
+
+## 🌎 Sociais
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jhulianfront/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](SEULINK)

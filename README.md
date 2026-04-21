@@ -31,7 +31,7 @@ Olá, me chamo Octávio Jhulian.
 
 [![Banco de Dados](https://img.shields.io/badge/Projeto-Banco_de_Dados-black?style=for-the-badge&logo=mysql)](LINK)
 
-[![Java OOP](https://img.shields.io/badge/Projeto-Java_OOP-black?style=for-the-badge&logo=openjdk)](LINK)
+[![Java OOP](https://img.shields.io/badge/Projeto-Java_OOP-black?style=for-the-badge&logo=openjdk)](https://github.com/LevesLewis/Loja-de-Capacates-CRUD-Java-PMOO-)
 
 ## 📊 Estatísticas
 

@@ -23,6 +23,16 @@ Olá, me chamo Octávio Jhulian.
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
 
+## 📂 Projetos
+### 🎯 Projetos Feitos por Mim
+
+
+### 🎓 Projetos Feitos na Faculdade
+
+[![Banco de Dados](https://img.shields.io/badge/Projeto-Banco_de_Dados-black?style=for-the-badge&logo=mysql)](LINK)
+
+[![Java OOP](https://img.shields.io/badge/Projeto-Java_OOP-black?style=for-the-badge&logo=openjdk)](LINK)
+
 ## 📊 Estatísticas
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LevesLewis&show_icons=true&theme=dark)

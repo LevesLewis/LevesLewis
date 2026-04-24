@@ -29,7 +29,7 @@ Olá, me chamo Octávio Jhulian.
 
 ### 🎓 Projetos Feitos na Faculdade
 
-[![Banco de Dados- DDL](https://img.shields.io/badge/Projeto-Banco_de_Dados-black?style=for-the-badge&logo=mysql)](https://github.com/LevesLewis/BD-DDL)
+[![Banco de Dados- DDL](https://img.shields.io/badge/Projeto-Banco_de_Dados_DDL-Black?style=for-the-badge&logo=postgresql&color=black)](https://github.com/LevesLewis/BD-DDL)
 
 [![Java OOP - CRUD](https://img.shields.io/badge/Projeto-Java_OOP-black?style=for-the-badge&logo=openjdk)](https://github.com/LevesLewis/Loja-de-Capacates-CRUD-Java-PMOO-)
 

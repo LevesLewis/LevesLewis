@@ -31,9 +31,12 @@ Olá, me chamo Octávio Jhulian.
 
 [![Banco de Dados - DDL](https://img.shields.io/badge/Projeto-Banco_de_Dados_DDL-Black?style=for-the-badge&logo=postgresql&color=black)](https://github.com/LevesLewis/BD-DDL)
 
+[![Banco de Dados - DML](https://img.shields.io/badge/PROJETO-Banco_De_Dados_DML-black?style=for-the-badge&logo=Postgresql&label=Projeto)](https://github.com/LevesLewis/BD-DML)
+
+[![Gestão Escolar BD](https://img.shields.io/badge/PROJETO-Gestao_Escolar_BD-black?style=for-the-badge&logo=Postgresql&label=Projeto)](https://github.com/LevesLewis/GestaoEscolar-BD)
+
 [![Java OOP - CRUD](https://img.shields.io/badge/Projeto-Java_CRUD-Black?style=for-the-badge&logo=postgresql&color=black)](https://github.com/LevesLewis/Loja-de-Capacates-CRUD-Java-PMOO-)
 
-[![Banco de Dados - DML](https://img.shields.io/badge/PROJETO-Banco_De_Dados_DML-black?style=for-the-badge&logo=Postgresql&label=Projeto)](https://github.com/LevesLewis/BD-DML)
 
 ## 📊 Estatísticas
 

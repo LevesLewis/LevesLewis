@@ -26,6 +26,9 @@ Olá, me chamo Octávio Jhulian.
 ## 📂 Projetos
 ### 🎯 Projetos Feitos por Mim
 
+[![Front-End - Nature Website](https://img.shields.io/badge/Projeto-Front_End_Nature_Website-black?style=for-the-badge&logo=css)](https://github.com/LevesLewis/Nature-Website)
+
+[![Front-End - Porsche Website](https://img.shields.io/badge/Projeto-Front_End_Porsche_Website-black?style=for-the-badge&logo=css)](https://github.com/LevesLewis/Porsche-Simple-Website)
 
 ### 🎓 Projetos Feitos na Faculdade
 

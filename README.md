@@ -6,11 +6,11 @@
 
 Olá, me chamo Octávio Jhulian.
 
-💻 Sou desenvolvedor de Backend em treinamento.
+💻 Curso Análise e Desenvolvimento de Sistemas.
 
-📚 Estou estudando Java e MySql.
+📚 Estudando Java, MySql, HTML, CSS, JS.
 
-🚀 No caminho para me tornar um profissional na área.  
+🚀 No caminho para me tornar um profissional na área full-stack.
 
 🎯 Meu objetivo: Conseguir minha primeira vaga de Backend.
 
